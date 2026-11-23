@@ -1,0 +1,6 @@
+{
+  "name": "MatchSoirée — Alphabette",
+  "description": "Mettez fin en 60 secondes au débat du vendredi soir (On mange quoi ? On regarde quoi ? On fait quoi ?) en couple ou entre amis avec le Swipe à Deux, le Veto, la Roue de Secours et le Ticket de Soirée.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
